@@ -30,6 +30,7 @@ public class Student {
 	public void setStutas(boolean stutas) {
 		this.stutas = stutas;
 	}
+	//lllllllllllllll
 	
 
 }
